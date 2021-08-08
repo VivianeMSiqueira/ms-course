@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "zull.routes.worker.path",
+    "type": "java.lang.String",
+    "description": "A description for 'zull.routes.worker.path'"
+  },
+  {
+    "name": "zull.routes.payroll.path",
+    "type": "java.lang.String",
+    "description": "A description for 'zull.routes.payroll.path'"
+  }
+]}
